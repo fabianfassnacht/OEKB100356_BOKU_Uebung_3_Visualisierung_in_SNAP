@@ -236,8 +236,10 @@ Danach sollte die "Spectrum-View"-Ansicht auch für das Landsat-Bild funktionier
 
 1. Ihnen ist vielleicht bereits aufgefallen, dass bei den Spektren des Sentinel-2 Bildes ein Band (bei 1375 nm) alle Werte von allen Pixeln bei nahe Null zu liegen scheinen. Erstellen Sie eine Visualisierung des Bandes und ergänzen Sie eine kurze Erläuterung warum das Bild so aussieht wie es aussieht (basierend auch auf was Sie in der Vorlesung bereits gelernt haben). 
 
-2. In unserem aktuellen Sentinel-2 Bild sind 13 Spektralkanäle enthalten. Von diesen 13 Kanälen haben 3 Kanäle/Bänder eine deutlich gröbere Auflösung von 60 m, wohingegen die anderen 10 Kanäle/Bänder eine Auflösung von 10 bzw. 20 m haben. Erstellen Sie ein Subset des Sentinel-2 Bildes in SNAP und behalten Sie nur die Kanäle mit 10 bzw. 20 m Auflösung. Sie finden das Subset-Tool in SNAP unter **Raster ⇒ Subset**. (Wer sich nicht mehr erinnert findet hier auch nochmal die Erläuterung von der früheren Übung (ACHTUNG: nur der erste Teil ist relevant, das resampling muss nicht unbedingt gemacht werden): https://github.com/fabianfassnacht/BOKU_Uebung_2_Export_Sentinel_2/blob/main/Tag_2_Export.md)
+2. In unserem aktuellen Sentinel-2 Bild sind 13 Spektralkanäle enthalten. Von diesen 13 Kanälen haben 3 Kanäle/Bänder eine deutlich gröbere Auflösung von 60 m, wohingegen die anderen 10 Kanäle/Bänder eine Auflösung von 10 bzw. 20 m haben. Erstellen Sie ein Subset des Sentinel-2 Bildes in SNAP und behalten Sie nur die Kanäle mit 10 bzw. 20 m Auflösung. Sie finden das Subset-Tool in SNAP unter **Raster ⇒ Subset**. (Wer sich nicht mehr erinnert findet die Erläuterungen am Ende der Übung des ersten Tags)
 
 3. Für dieses neue Bild mit nur 10 Kanälen/Bändern, setzen sie bitte jeweils 10 Pins (wie heute gelernt) für die Landbedeckungsklassen "Wiese/Grasland"; "Wasser"; "Wald" und "urbanes Gebiet/versiegelte Fläche" (insgesamt 40 Pins) und erstellen Sie eine Abbildung, die die Spektren der Landbedeckungsklassen in verschiedenen Farben zeigt.
 
-4. Wiederholen Sie die Aufgabe 3. mit dem Landsat-Bild. Was fällt Ihnen auf, wenn Sie die Spektren von Landsat und Sentinel-2 vergleichen? 
+4. Wiederholen Sie die Aufgabe 3. mit dem Landsat-Bild. Was fällt Ihnen auf, wenn Sie die Spektren von Landsat und Sentinel-2 vergleichen?
+
+Fasst die Antworten zu den Fragen bitte in einer Powerpoint-Präsentation zusammen und ladet sie auf BOKUlearn als PDF hoch.
