@@ -1,5 +1,5 @@
 ﻿
-**Fernerkundung in der Landschaftsplanung - Tag 4 - Visualisierungen und Spektren in SNAP**
+**OEKB100356	Einführung in die Fernerkundung - Tag 3 - Visualisierungen und Spektren in SNAP**
 
 **Autoren:** Dieses Tutorial wurde von Fabian Fassnacht entwickelt.
 
